@@ -1,9 +1,9 @@
 # jESC-Scripts
-Scripts repo for jESC
+This repository contains all the scripts we have written for our client.
 
-|**Members**|
+|**Members**
 |-----|
-|John Alfred Alona|
-|Jesus “Christian Emiliano” Vasquez-Ceja|
-|Spencer Mitchell|
-|Connie Uribe Chavez|
+|[John Alfred Alona](https://www.linkedin.com/in/redalona/) / [GitHub](https://github.com/redalona)|
+|[Jesus “Christian Emiliano” Vasquez-Ceja](https://www.linkedin.com/in/emilioceja/) / [GitHub](https://github.com/JesusCEVC)|
+|[Spencer Mitchell](https://www.linkedin.com/in/spencymitch/) / [GitHub](https://github.com/spencymitch)|
+|[Connie Uribe Chavez](https://www.linkedin.com/in/connieuribe/) / [GitHub](https://github.com/connieuribe)|
